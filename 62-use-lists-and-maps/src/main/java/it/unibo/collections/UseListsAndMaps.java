@@ -21,6 +21,9 @@ public final class UseListsAndMaps {
          * 1) Create a new ArrayList<Integer>, and populate it with the numbers
          * from 1000 (included) to 2000 (excluded).
          */
+
+
+         
         /*
          * 2) Create a new LinkedList<Integer> and, in a single line of code
          * without using any looping construct (for, while), populate it with
